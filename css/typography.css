@@ -1,0 +1,20 @@
+body {
+    font-family: sans-serif
+}
+
+@media(max-width: 768px) {
+    .lg-heading {
+        font-size: 1.3rem;
+    }
+
+  
+    .sm-heading {
+        font-size: 1rem;
+    }
+}
+
+footer a,
+footer h3,
+footer p {
+    color: var(--light-grey);
+}
